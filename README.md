@@ -1,0 +1,1 @@
+These are the my precourse exercises for Tealead Academny Introduction to Ruby and Web Development course. 
